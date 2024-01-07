@@ -4,6 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
 // @description  在B站看单个视频的时候不想自动连播，不让容易拨到推荐的哪些不感兴趣的视频。但是有些多P的视频，不打开自动连播就会只播放一P，这个插件的作用就是在单个多P视频内自动连播，视频之间不自动连播
+// @description:en  Do and only do Automatic-Continuesly-Playing on Multi-part video page
 // @author       TheRiverElder
 // @match        https://www.bilibili.com/video/**/*
 // @icon         https://theriverelder.github.io/assets/river_icon_dark.ico
