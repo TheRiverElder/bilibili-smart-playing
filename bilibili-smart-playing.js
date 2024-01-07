@@ -8,6 +8,7 @@
 // @match        https://www.bilibili.com/video/**/*
 // @icon         https://theriverelder.github.io/assets/river_icon_dark.ico
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
